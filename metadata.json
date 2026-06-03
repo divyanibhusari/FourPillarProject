@@ -1,0 +1,6 @@
+{
+  "name": "4 Pillars Realty",
+  "description": "Premium Residential Plots, Luxury Apartments, and Township Developments in Nagpur by 4 Pillars Realty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
